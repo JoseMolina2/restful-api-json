@@ -1,19 +1,154 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-        },
-        {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        }
-    ]
+  "information": [
+    {
+      "description": "Full Stack Developer",
+      "icon": "briefcase",
+      "id": 1
+    },
+    {
+      "description": "jmmwork@protonmail.com",
+      "icon": "envelope",
+      "id": 3
+    }
+  ],
+  "skills": [
+    {
+      "description": "Javascript",
+      "level": 90,
+      "id": 1
+    },
+    {
+      "description": "React",
+      "level": 80,
+      "id": 2
+    },
+    {
+      "description": "Vue",
+      "level": 80,
+      "id": 3
+    },
+    {
+      "description": "NodeJS",
+      "level": 70,
+      "id": 4
+    },
+    {
+      "description": "Java",
+      "level": 70,
+      "id": 5
+    },
+    {
+      "description": "C#",
+      "level": 70,
+      "id": 6
+    },
+    {
+      "description": "Docker",
+      "level": 50,
+      "id": 7
+    },
+    {
+      "description": "SQL",
+      "level": 90,
+      "id": 8
+    },
+    {
+      "description": "NOSQL",
+      "level": 50,
+      "id": 9
+    },
+    {
+      "description": "REST API",
+      "level": 70,
+      "id": 10
+    },
+    {
+      "description": "GraphQL",
+      "level": 30,
+      "id": 11
+    },
+    {
+      "description": "Python",
+      "level": 20,
+      "id": 12
+    },
+    {
+      "description": "Git",
+      "level": 90,
+      "id": 13
+    },
+    {
+      "description": "CSS",
+      "level": 90,
+      "id": 14
+    },
+    {
+      "description": "Bootstrap",
+      "level": 70,
+      "id": 15
+    },
+    {
+      "description": "Tailwind",
+      "level": 50,
+      "id": 16
+    }
+  ],
+  "social_links": [
+    {
+      "link": "https://www.linkedin.com/in/jose-eduardo-m-52209217a/?locale=en_US",
+      "icon": "linkedin",
+      "id": 1
+    },
+    {
+      "link": "https://github.com/JoseMolina2",
+      "icon": "github",
+      "id": 2
+    }
+  ],
+  "languages": [
+    {
+      "description": "English",
+      "level": 90,
+      "id": 1
+    },
+    {
+      "description": "Spanish",
+      "level": 100,
+      "id": 2
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio",
+      "link": "https://portfolio-eight-tau-13.vercel.app/",
+      "repository": "https://github.com/JoseMolina2/portfolio",
+      "description": "This is the portfolio you are looking at",
+      "skills": "React, JSON-Server, CSS, W3.css",
+      "id": 1
+    },
+    {
+      "name": "Next Website",
+      "link": "https://next-website-weld.vercel.app/",
+      "repository": "https://github.com/JoseMolina2/Next-Website",
+      "description": "Home Page Template",
+      "skills": "Javascript, HTML, CSS",
+      "id": 2
+    },
+    {
+      "name": "Task Tracker",
+      "link": "https://task-tracker-tau-sepia.vercel.app/",
+      "repository": "https://github.com/JoseMolina2/task-tracker",
+      "description": "Small application to manage tasks",
+      "skills": "React, JSON-Server, CSS, React-Router",
+      "id": 3
+    },
+    {
+      "name": "Test Questions",
+      "link": "https://test-questions-xi.vercel.app/",
+      "repository": "https://github.com/JoseMolina2/test-questions/tree/master",
+      "description": "Small application for answering questions",
+      "skills": "React, CSS",
+      "id": 4
+    }
+  ]
 }
